@@ -5,10 +5,6 @@
 The project was done in short-term [@KyivTechSummit](https://twitter.com/kyivtechsummit) Hackaton.
 Not recomended for use in production unless the audits are made.
 
-**Pitch deck link:** https://www.canva.com/design/DAFLWcgO_JU/aOHRMH5HT4g28KiiDQ_7wg/view?utm_content=DAFLWcgO_JU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-**Video demo link:** https://youtu.be/AKag2WGpMAU
-
 ## Inspiration
 1. Ukrainian army and the people of Ukraine 💙
 2. Enormous donations amount which went through blockchain 🐳
