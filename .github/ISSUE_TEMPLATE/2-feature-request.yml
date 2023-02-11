@@ -1,0 +1,51 @@
+name: "Feature Request"
+title: "As a user, I want to ..."
+description: "Create a Feature Request"
+labels: ["feature ✨️", "needs refinement ♻️"]
+body:
+  - type: textarea
+    id: abstract
+    attributes:
+      label: "Abstract:"
+      placeholder: |
+        (What?) This standard defines the process of cooking a cookie.
+
+  - type: textarea
+    id: prerequisites
+    attributes:
+      label: "Prerequisites:"
+      placeholder: Needs cookies to be cooked in advance.
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: "Motivation:"
+      placeholder: |
+        (Why?) The cookies are needed to make a cake and users love cookies.
+
+  - type: textarea
+    id: specification
+    attributes:
+      label: "Specification:"
+      placeholder: |
+        (How?) We need the spoon, the spoon is placed on the desk with cookie
+        forms prepared, milk is took from a refridgirator...
+
+
+  - type: textarea
+    id: criteria
+    attributes:
+      label: "Acceptance Criteria:"
+      placeholder: |
+        - [ ] You have the cookie
+        - [ ] The cookie has the chocolate
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: "References:"
+      placeholder: Cooking a cookie, quick recipe...
+    validations:
+      required: false
